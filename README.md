@@ -1,2 +1,2 @@
 # JiuGestor
-Gerenciamento para academia de Jiu-Jitsu
+App para controle de alunos para academia de Jiu-Jitsu
